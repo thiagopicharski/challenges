@@ -18,7 +18,7 @@ Os fabricantes geralmente usam a seguinte associação tecla numérica/letras:
 |9    |w,x,y,z          |
   
 Por exemplo, para se obter a letra 'b' deve-se pressionar duas vezes a tecla 2, para a letra 'm' uma vez a tecla 6 e assim por diante.
-Faça um programa que, recebendo uma palavra P (máximo de 50 caracteres), seja capaz de informar quantas vezes e quais teclas terão que ser
+Faça um programa que, recebendo uma palavra P (com 1 até N caracteres), seja capaz de informar quantas vezes e quais teclas terão que ser
 pressionadas para obtenção da palavra.
 As teclas devem ser informadas na ordem para a formação correta da palavra.
 Conforme o exemplo abaixo, cada tecla deve ser precedida por um cerquilha (#).
